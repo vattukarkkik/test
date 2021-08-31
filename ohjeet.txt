@@ -1,0 +1,50 @@
+Katso ulkoasu virma.html tiedostosta. Muokkaa virma.html tiedostosta kuvia vastaava yksi näkymä,
+joka toimii kaikilla päätelaitteilla (työpöytäkone, tabletti sekä mobiili).
+
+FONTTI JA KOOT
+
+Open Sans
+
+Navigaatio 20px
+H1 48px
+H2 36px
+LeipÃ¤teksti 14px
+
+TYYLIT
+
+Sisällön leveys max 1140px
+
+Ylänavigaatio liikkuu sivun mukana (Fixed/sticky header)
+- Logo ja palkin korkeus pienenevät animoidusti
+
+Sosiaalisen median ikonit ja navigaation mobiili-ikoni ovat mukana ikonipaketissa
+
+Käytä virma.less tiedostoa tyylien tekemiseen
+- Tee responsiivinen ulkoasu
+- Poista .temp-selectorin tyylit .less tiedostosta ja siihen liittyvä div-elementti html tiedostosta
+
+Voit käyttää haluamiasi javascript-frameworkia tukena.
+(jQuery riippuvuus on esiasennetu ja käytössä src/index.js tiedostossa,
+toteuta oma javascript ratkaisu sinne)
+
+Lomakkeen ei tarvitse lähettää tietoja mihinkään, tee vain kiitos-näkymä
+(javascript -ratkaisu on riittävä)
+
+Älä käytä ulkoisia CSS-frameworkejä, kuten bootstrap
+
+Huomioi, että tekemääsi koodia pitää pystyä laajentamaan
+
+Koodaa kaikki englanniksi
+
+Huomioi tabletti- sekä mobiililaitteet
+
+Tekstit eri osioihin löydät tekstit.txt tiedostosta
+
+Selaintukena riittää modernit selaimet; Chrome, (IE Edge ei codesandbox.io toteutuksessa), Firefox.
+
+Sovita sisältö tablettiin / mobiiliin oman näkemyksesi mukaan
+
+Epäselvissä tapauksissa sovella omaa osaamista lopputuloksen saavuttamiseksi
+
+(Välitä lopputulos .zip tiedostona)
+Välitä lopputulos codesandbox.io linkkinä
